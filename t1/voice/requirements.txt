@@ -1,0 +1,6 @@
+tensorflow==2.13.0
+librosa==0.10.0
+scikit-learn==1.3.0
+matplotlib==3.7.2
+torchaudio==2.0.2
+numpy  # Let pip automatically determine the compatible version
